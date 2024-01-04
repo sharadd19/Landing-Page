@@ -1,0 +1,63 @@
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.maintext {
+    color:#F9FAF8;
+}
+.secondarytext {
+    color:#E5E7EB;
+}
+
+.headercontainer, .footer {
+    background-color: #1F2937;
+}
+
+.header {
+
+}
+
+.pagedescriptioncontainer {
+
+}
+
+.illustrationcontainer {
+
+}
+
+.quotecontainer {
+    background-color: #E5E7EB;
+}
+
+.calltoactioncontainer {
+    background-color:#3882F6;
+
+}
+
+.informationheadertext, .quotetext {
+    font-size: 36px;
+    color: #1F2937;
+
+}
+
+.quoteauthor {
+
+}
+
+.card {
+
+}
+
+.footer {
+
+}
+
+.calltoaction {
+
+
+}
+
+.signupbutton {
+    background-color:#3882F6;
+}
